@@ -1,3 +1,4 @@
+#VRML_SIM R2023b utf8
 PROTO TrackOne [
   field SFVec3f    translation  0 0 0
   field SFRotation rotation     0 1 0 0
